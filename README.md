@@ -13,10 +13,10 @@
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![javascript](https://img.shields.io/badge/-Javascript-000?&logo=JavaScript&logoColor=ddc508)
+<img src="http://img.shields.io/badge/-Javascript-E88726?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/"/> 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSql&logoColor=336791)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html&logoColor=ddc508)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS&logoColor=ddc508)
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS/"/>
 
 ### Technologies
 ![Maven](https://img.shields.io/badge/-Maven-000?&logo=apache-maven&logoColor=CD5C5C)

@@ -12,7 +12,7 @@
 🔧Tools
 
 ### Languages
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)] 
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 [![javascript](https://img.shields.io/badge/-Javascript-000?&logo=JavaScript&logoColor=ddc508)]
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSql&logoColor=336791)]
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html&logoColor=ddc508)]

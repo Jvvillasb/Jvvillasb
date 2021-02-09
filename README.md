@@ -13,14 +13,14 @@
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-[![javascript](https://img.shields.io/badge/-Javascript-000?&logo=JavaScript&logoColor=ddc508)]
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSql&logoColor=336791)]
-[![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html&logoColor=ddc508)]
-[![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS&logoColor=ddc508)]
+![javascript](https://img.shields.io/badge/-Javascript-000?&logo=JavaScript&logoColor=ddc508)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSql&logoColor=336791)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html&logoColor=ddc508)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS&logoColor=ddc508)
 
 ### Technologies
 ![Maven](https://img.shields.io/badge/-Maven-000?&logo=apache-maven&logoColor=CD5C5C)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSql&logoColor=336791)]
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSql&logoColor=336791)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/"/>
 <img src="https://img.shields.io/badge/-MySQL-0078D6?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>

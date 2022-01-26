@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently internship at Fatec/CRZ
-- 🌱 I’m currently learning Java for Web
+- 🔭 I’m currently JR Developer at Ledware
+- 🌱 I’m currently working with Java and Spring
 
 - 🎯 Goal: Become a reference when it comes to java web
 - 🚀 Hobbies: Play, Movies and Be in peace

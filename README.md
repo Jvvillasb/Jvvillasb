@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently JR Developer at Ledware
+- 🔭 I’m currently JR Developer at EISA
 - 🌱 I’m currently working with Java and Spring
 
 - 🎯 Goal: Become a reference when it comes to java web
